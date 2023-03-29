@@ -1,10 +1,12 @@
 {
-  "validate":[{
-    "ssn": "1000"
-    "status": "pass"
-  },
- {
-    "ssn": "2000"
-    "status": "fail"
-  }]
+  "validate": [
+    {
+      "ssn": 1000,
+      "status": "pass"
+    },
+    {
+      "ssn": 2000,
+      "status": "fail"
+    }
+  ]
 }
