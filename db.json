@@ -1,5 +1,5 @@
 {
   "validate":{
-  "SSN_Status": "pass" 
+    "100": { "SSN_Status": "pass" }
   }
 }
